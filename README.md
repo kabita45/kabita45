@@ -1,38 +1,27 @@
-# Hi there, I'm [Kabita Kumari]! 👋
-![Project Image](url_to_your_image)
+<h1 align="center">Hi 👋, I'm Kabita Kumari</h1>
+<h3 align="center">A passionate software Engineer from India</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://www.your-portfolio.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabita45&label=Profile%20views&color=0e75b6&style=flat" alt="kabita45" /> </p>
 
-## About Me
-I am a passionate DevOps Engineer with expertise in AWS and a strong background in software development. I enjoy solving complex problems and optimizing processes to deliver high-quality solutions. With proficiency in various programming languages and technologies, I strive for continuous learning and improvement.
+- 🌱 I’m currently learning **Master Of Computer Application**
 
-## Skills
-- **AWS**: EC2, S3, Lambda, IAM, RDS, ECS, CloudFormation, etc.
-- **Programming Languages**: C, C++, HTML, CSS, JavaScript, Node.js, Java
-- **Frameworks & Libraries**: Express.js, React.js
-- **Databases**: MongoDB, MySQL
-- **Tools & Technologies**: Docker, Kubernetes, Jenkins, Git, Terraform
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kabita-maurya/](https://www.linkedin.com/in/kabita-maurya/)
 
-## Projects
-- **Project 1**: Brief description or link to your project.
-- **Project 2**: Brief description or link to your project.
+- 📄 Know about my experiences [https://kavi-maurya.netlify.app/](https://kavi-maurya.netlify.app/)
 
-## Experience
-- **Company Name** (Date Range)
-  - Description of responsibilities and achievements.
-- **Company Name** (Date Range)
-  - Description of responsibilities and achievements.
+- ⚡ Fun fact **I am funny😅**
 
-## Education
-- **Degree in Computer Science**, University Name (Year)
-- **Certification in AWS Solutions Architect**, Certification Body (Year)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kabita-maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabita-maurya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kavimaurya535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavimaurya535" height="30" width="40" /></a>
+</p>
 
-## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kabita-maurya/)
-- GitHub: [Your GitHub Profile](https://github.com/kabita45)
-- Portfolio: [Your Portfolio Website](https://kavi-maurya.netlify.app/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-Feel free to reach out to me for collaboration, job opportunities, or just to say hi!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabita45&show_icons=true&locale=en&layout=compact" alt="kabita45" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabita45&show_icons=true&locale=en" alt="kabita45" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabita45&" alt="kabita45" /></p>
