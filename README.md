@@ -1,4 +1,6 @@
 # Hi there, I'm [Kabita Kumari]! 👋
+![Project Image](url_to_your_image)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://www.your-portfolio.com)
@@ -28,9 +30,9 @@ I am a passionate DevOps Engineer with expertise in AWS and a strong background 
 - **Certification in AWS Solutions Architect**, Certification Body (Year)
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- GitHub: [Your GitHub Profile](https://github.com/your-profile)
-- Portfolio: [Your Portfolio Website](https://www.your-portfolio.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kabita-maurya/)
+- GitHub: [Your GitHub Profile](https://github.com/kabita45)
+- Portfolio: [Your Portfolio Website](https://kavi-maurya.netlify.app/)
 
 Feel free to reach out to me for collaboration, job opportunities, or just to say hi!
 
